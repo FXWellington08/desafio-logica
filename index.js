@@ -36,3 +36,4 @@ else {
 
 // mensagem final
 console.log("O Herói de nome " + nomePersonagem + " está no nível de " + rank);
+
